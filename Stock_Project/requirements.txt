@@ -1,0 +1,9 @@
+Requirement:-
+
+dash
+matplotlib
+plotly
+yfinance
+pandas
+numpy
+ta
