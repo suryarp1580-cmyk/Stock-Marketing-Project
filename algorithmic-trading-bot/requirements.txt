@@ -1,0 +1,11 @@
+Requirements:-
+
+
+pandas
+dash
+plotly
+numpy
+yfinance
+ta
+reportlab
+kaleido
